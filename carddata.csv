@@ -1,0 +1,24 @@
+Title,Cardtext,Actioncost,Manacost,Attack,Health,Requirements
+Strike,*Attack* target,1,0,,,
+Block,Add Constitution + Brawl Block,1,0,,,Brawl 1
+Deflect,Add Quickness + Weapons Block,1,0,,,Weapons 1
+Dodge,Add one Dodge,2,0,,,"Quickness 3, Athletics 1"
+Saw it Coming,Target enemy. Add one Dodge,1,,,,"Intuition 3, Investigation 1"
+Scout's Motto,Add Security + Intelligence Block. You don't lose block on your next upkeep.,2,0,,,
+Counter-Strike,"Quick. Attack target who is attacking you. If you hit and are not blocked, counter target attack.",1,0,,,Brawling 3
+Oh no you don't!,"Quick. Attack target who is attacking someone that isn't you. If you hit, you may change targets of target attack (Targets must be valid)",1,0,,,Weapons 3
+The Mozambique,"Attack target twice. If you hit and weren't blocked, attack that target once for double damage.",2,0,,,Firearms 3
+First Aid,Remove any number of Ailments from adjacent target,3,0,,,Survival 2
+Knowledge(X),Draw 1 card,1,0,,,Special.
+Knowledge Sprite,Knowledge cards you play cost (1) less,1,2,0,5,"Academics 3, Metamagic 5"
+Preparation,Draw Intelligence cards. Put 2 cards back into your deck.,2,0,,,Intelligence 3
+Attack of Opportunity,Quick. Attack target enemy that has moved this turn. Add 1 action point,1,0,,,
+Forcebolt,Deal Forces damage to target enemy within 40m,1,1,,,Forces 3
+Magic missile.,Strive <1>. Deal Intelligence damage to any number of targets.,1,1,,,Forces 4
+Fireball,Deal Intelligence * 2 damage to everyone within Attunement * 2 meters.,1,3,,,Forces 5
+Heal,Heal target for Light Health,1,1,,,Light 5
+Counter Spell,Quick. Counter target spell.,1,2,,,Metamagic 5
+I prepared explosive runes this morning.,Exile a spell from your hand. You may cast it from exile as though it has Quick until you move.,1,1,,,"Metamagic 6, Matter 4"
+Drain life,Deal Dark Damage to adjacent target without dodge. Gain that much life.,1,1,,,Dark 6
+Drain Energy,Deal Intution damage to adjacent target without dodge. Add that much mana,1,2,,,"Dark 7, Meta 5"
+Charge!,Move up to 10m in a straight line towards target enemy. You may make an attack against that enemy.,1,0,,,Weapons 6

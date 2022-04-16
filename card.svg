@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="2in"
+   height="3.5in"
+   viewBox="0 0 192 336"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   sodipodi:docname="card.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:document-units="in"
+     showgrid="false"
+     inkscape:zoom="2.4732143"
+     inkscape:cx="220.76534"
+     inkscape:cy="215.50903"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="1.6173285"
+       y="277.77617"
+       width="121.29964"
+       height="55.797834"
+       id="rect104973" />
+    <rect
+       x="10.108303"
+       y="6.0649819"
+       width="115.23466"
+       height="69.545126"
+       id="rect94925" />
+    <rect
+       x="124.5343"
+       y="7.6823105"
+       width="120.89531"
+       height="66.310469"
+       id="rect88489" />
+    <rect
+       x="19.00361"
+       y="90.974729"
+       width="157.2852"
+       height="168.6065"
+       id="rect34071" />
+    <rect
+       x="19.812274"
+       y="88.548736"
+       width="163.35019"
+       height="180.33212"
+       id="rect27099" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.970933"
+       id="rect179"
+       width="191.65344"
+       height="337.21298"
+       x="0"
+       y="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+       x="131.00363"
+       y="33.963902"
+       id="text10313"
+       inkscape:label="text10313"><tspan
+         sodipodi:role="line"
+         id="tspan10311"
+         x="131.00363"
+         y="33.963902"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">%VAR_Manacost%/%VAR_Actioncost%</tspan></text>
+    <rect
+       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.96;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect23641"
+       width="170.62816"
+       height="185.99278"
+       x="12.534296"
+       y="82.888084" />
+    <text
+       xml:space="preserve"
+       id="text34069"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect34071);fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(-4.4476534,-5.2563177)"><tspan
+         x="19.003906"
+         y="103.13898"
+         id="tspan108994">%VAR_Cardtext% </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none"
+       x="146.77257"
+       y="304.05777"
+       id="text53003"
+       inkscape:label="text53003"><tspan
+         sodipodi:role="line"
+         id="tspan53001"
+         x="146.77257"
+         y="304.05777">%VAR_Attack%/%VAR_Health%</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none"
+       x="1.6173286"
+       y="322.65704"
+       id="text65623"
+       inkscape:label="text65623"><tspan
+         sodipodi:role="line"
+         id="tspan65621"
+         x="1.6173286"
+         y="322.65704" /></text>
+    <text
+       xml:space="preserve"
+       id="text94923"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect94925);fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="10.107422"
+         y="20.661738"
+         id="tspan108996">%VAR_Title%</tspan></text>
+    <text
+       xml:space="preserve"
+       id="text104971"
+       style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;white-space:pre;fill:#000000;fill-opacity:1;stroke:none;shape-inside:url(#rect104973);-inkscape-font-specification:'sans-serif, Normal';font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+         x="1.6171875"
+         y="289.93979"
+         id="tspan109000"><tspan
+           style="font-size:13.3333px"
+           id="tspan108998">%VAR_Requirem</tspan></tspan><tspan
+         x="1.6171875"
+         y="306.60645"
+         id="tspan109004"><tspan
+           style="font-size:13.3333px"
+           id="tspan109002">ents%</tspan></tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2">
+    <ellipse
+       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.929864;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1277"
+       cx="155.60269"
+       cy="33.809044"
+       rx="26.151871"
+       ry="27.197386" />
+  </g>
+</svg>
