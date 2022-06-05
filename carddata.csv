@@ -1,24 +1,71 @@
-Title,Cardtext,Actioncost,Manacost,Attack,Health,Requirements
-Strike,*Attack* target,1,0,,,
-Block,Add Constitution + Brawl Block,1,0,,,Brawl 1
-Deflect,Add Quickness + Weapons Block,1,0,,,Weapons 1
-Dodge,Add one Dodge,2,0,,,"Quickness 3, Athletics 1"
-Saw it Coming,Target enemy. Add one Dodge,1,,,,"Intuition 3, Investigation 1"
-Scout's Motto,Add Security + Intelligence Block. You don't lose block on your next upkeep.,2,0,,,
-Counter-Strike,"Quick. Attack target who is attacking you. If you hit and are not blocked, counter target attack.",1,0,,,Brawling 3
-Oh no you don't!,"Quick. Attack target who is attacking someone that isn't you. If you hit, you may change targets of target attack (Targets must be valid)",1,0,,,Weapons 3
-The Mozambique,"Attack target twice. If you hit and weren't blocked, attack that target once for double damage.",2,0,,,Firearms 3
-First Aid,Remove any number of Ailments from adjacent target,3,0,,,Survival 2
-Knowledge(X),Draw 1 card,1,0,,,Special.
-Knowledge Sprite,Knowledge cards you play cost (1) less,1,2,0,5,"Academics 3, Metamagic 5"
-Preparation,Draw Intelligence cards. Put 2 cards back into your deck.,2,0,,,Intelligence 3
-Attack of Opportunity,Quick. Attack target enemy that has moved this turn. Add 1 action point,1,0,,,
-Forcebolt,Deal Forces damage to target enemy within 40m,1,1,,,Forces 3
-Magic missile.,Strive <1>. Deal Intelligence damage to any number of targets.,1,1,,,Forces 4
-Fireball,Deal Intelligence * 2 damage to everyone within Attunement * 2 meters.,1,3,,,Forces 5
-Heal,Heal target for Light Health,1,1,,,Light 5
-Counter Spell,Quick. Counter target spell.,1,2,,,Metamagic 5
-I prepared explosive runes this morning.,Exile a spell from your hand. You may cast it from exile as though it has Quick until you move.,1,1,,,"Metamagic 6, Matter 4"
-Drain life,Deal Dark Damage to adjacent target without dodge. Gain that much life.,1,1,,,Dark 6
-Drain Energy,Deal Intution damage to adjacent target without dodge. Add that much mana,1,2,,,"Dark 7, Meta 5"
-Charge!,Move up to 10m in a straight line towards target enemy. You may make an attack against that enemy.,1,0,,,Weapons 6
+Title,Cardtext,Actioncost,Manacost,Attack,Health,Requirements,
+Strike,*Attack* target,1,0,,,,
+Block,Add Constitution + Brawl Block,1,0,,,Brawl 1,
+Deflect,Add Quickness + Weapons Block,1,0,,,Weapons 1,
+Dodge,Add one Dodge,2,0,,,"Quickness 3, Athletics 1",
+Saw it Coming,Target enemy. Add one Dodge,1,,,,"Intuition 3, Investigation 1",
+Scout's Motto,Add Security + Intelligence Block. You don't lose block on your next upkeep.,2,0,,,,
+Counter-Strike,"Quick. Attack target who is attacking you. If you hit and are not blocked, counter target attack.",1,0,,,Brawling 3,
+Oh no you don't!,"Quick. Attack target who is attacking someone that isn't you. If you hit, you may change targets of target attack (Targets must be valid)",1,0,,,Weapons 3,
+The Mozambique,"Attack target twice. If you hit and weren't blocked, attack that target once for double damage.",2,0,,,Firearms 3,
+First Aid,Remove any number of Ailments from adjacent target,3,0,,,Survival 2,
+Knowledge(X),Draw 1 card,1,0,,,Special.,
+Knowledge Sprite,Knowledge cards you play cost (1) less,1,2,0,5,"Academics 3, Metamagic 5",
+Preparation,Draw Intelligence cards. Put 2 cards back into your deck.,2,0,,,Intelligence 3,
+Attack of Opportunity,Quick. Attack target enemy that has moved this turn. Add 1 action point,1,0,,,,
+Forcebolt,Deal Forces damage to target enemy within 40m,1,1,,,Forces 3,
+Magic missile.,Strive <1>. Deal Intelligence damage to any number of targets.,1,1,,,Forces 4,
+Fireball,Deal Intelligence * 2 damage to everyone within Attunement * 2 meters.,1,3,,,Forces 5,
+Heal,Heal target for Light Health,1,1,,,Light 5,
+Counter Spell,Quick. Counter target spell.,1,2,,,Metamagic 5,
+I prepared explosive runes this morning.,Exile a spell from your hand. You may cast it from exile as though it has Quick until you move.,1,1,,,"Metamagic 6, Matter 4",
+Drain life,Deal Dark Damage to adjacent target without dodge. Gain that much life.,1,1,,,Dark 6,
+Drain Energy,Deal Intution damage to adjacent target without dodge. Add that much mana,1,2,,,"Dark 7, Meta 5",
+Charge!,Move up to 10m in a straight line towards target enemy. You may make an attack against that enemy.,1,0,,,Weapons 6,
+Blink,Teleport to an unoccupied space you can see within (Int + Wil) metres,0,2,,,Space 8,
+Mana Sprite,Gain 1 Maximum Mana,1,1,0,1,Spirits 4,
+Fire Sprite,Sacrifice Fire Sprite: Gain 3 mana,1,2,1,1,"Spirits 4, Forces 3",
+Sidhe Knight,Sidhe Knight has 3 armor and gains 1 dodge at the end of its summoner's turn,1,3,5,5,Spirits 7,
+Bear,I regain all my health at the end of my controller's turn,1,1,2,2,"Spirits 5, Light 4",
+Parkour,You may move through half cover as if it were flat ground. Exhaust.,2,0,,,Athletics 3,
+Grenade,"At the beginning of my controller's turn, sacrifice me. When I die, I deal 10 damage to everyone within 10m.",2,0,0,1 (5 Dodge),"Athletics 2, Firearms 2",
+Mage Armor,"Gain 2 Armor. At the beginning of each of your turns, pay 1 mana. If you don't, lose this armor. Exhaust.",0,2,,,"Forces 3, Light 1",
+Double-Team,"Quick. Make 1 ranged attack against a target who has moved this turn. During your turn, You may pay 1 and exhaust this card. If you do, you may play it from exhaustion until you move.",0,1,,,Dark 5,
+Overwatch,"Quick. Make 1 ranged attack against a target who has moved this turn. You may pay 1 and exhaust this card. If you do, you may play it from exhaustion.",1,0,,,Firearms 5,
+Drive(X),Add 2 Action Points,1,0,,,Drive 3,
+Sneak Attack,Attack a target who you haven't attacked this turn. This attack ignores dodge.,2,0,,,Stealth 3,
+Flurry of blows.,Make (Quickness) melee attacks.,3,2,,,Weapons/Brawl 6,
+Mage hand,Make a melee attack against a target within (Precision) meters.,1,2,1,1,Forces 3,
+Mirror Image,Add (Charisma) Dodge,1,2,,,Dark 5,
+Wild Fey,Add <1> whenever you draw a card. You maximum mana is 0.,1,3,1,1,Spirits 6,
+Overcharge,Add (Charisma) Mana to target within (Medicine) * 2 meters,1,3,,,Light 5/Medicine 5,
+Ice Fairy,You may not end movement within 1 meter of me.,1,2,1,1,Forces 4/Spirits 4,
+Mana Conduit,Your summons gain +1/+1 for each mana over maximum you have.,1,1,1,1,Spirits 7/Metamagic 5,
+Thorns the cat,"I occupy the same space as you. When you block damage, I do (Charisma) damage to the attacker.",1,2,2,2,Spirits 7,
+Spirit Link,"When you take unblocked damage, I deal that much damage to the closest entity.",1,2,0,1,Spirits 4/Dark 6,
+Fog Bank,Allies ending their turn within 5 meters of me gain 1 dodge.,1,2,0,2,Spirits 4,
+Charge!,Make a melee attack with a damage bonus equal to the number of meters you moved this turn.,2,0,,,Athletics 5,
+Subtle Spell,Spells you cast cost (1) less to cast. Exhaust.,2,2,,,Metamagic 5/Stealth 5,
+Assassin's Step,Teleport adjacent to a target. You may make an attack against that target.,1,2,,,Stealth 5/Space 5,
+Dimension Door,Teleport to target unoccupied space within (Spaces)*5 meters,1,3,,,Spaces 5,
+Vista Strike,"Choose target. Until your next turn, you make make melee attacks as though you were next to that target.",1,2,,,Spaces 7,
+Vista's Shield,"For each card/ability that targets you, counter it unless its controller pays (2)",0,1,,,Spaces 4,
+Deflecting Bend,Quick. Change a target from you to another valid target.,1,2,,,Spaces 6,
+Beserk Influence,"I share your space. Gain +1 to Strength, Quickness and Constitution. You may not gain block or dodge.",,,,,,
+Spirit of Poison,Being within 5 meters of me gives you a poison counter. This ability only activates once per turn. I gain 1 Dodge at the end of your turn.,1,2,1 (Poison),3.,Spirits 7,
+Mascot Spirit,"When you summon another spirit, return me to your hand from exhaustion",0,1,1,3,Spirits 4,
+Haste,You have +3 Quickness. Exhaust.,1,3,,,"Forces 7, Spaces 7",
+Adrenaline Booster,Gain +1 Strength and Quickness. Exhaust.,2,2,,,Medicine 5/Light 6,
+Dark Offering,Sacrifice a summon. Gain 1 Willpower.,1,2,,,Dark 5/Metamagic 5,
+Wring out,"Reveal the top card of your draw pile. If it's a spell, cast it without paying its costs; you lose 1 life for every point of mana in its cost.",2,1,,,Metamagic 6,
+Foresight.,Scry 2. Gain (Intuition) Block.,1,1,,,Spaces 4,
+Banishment,Destroy target summon,1,3,,,Spirits 5/Metamagic 5,
+Deja Vu,"You may cast spells as though they have quick. If you cast a non-quick spell this way, it costs <1> more and has Exhaust.",3,3,,,Spaces 9,
+Life for a Life,"As an additional cost to cast this spell, sacrifice a summon. Deal 30 damage to any target.",2,4,,,Dark 8,
+Headshot,Make a ranged attack for double damage,2,0,,,Firearms 4,
+True Name.,Gain control of target summon,2,3,,,Academics 8/Spirits 6,
+Sidhe Archer,I gain 1 dodge at the end of your turn.,1,3,3 (ranged),5,Spirits 6,
+Queen of Summer,Moving within 5 meters of me causes enemies to take 10 damage. This ability triggers once per turn per enemy. I gain 1 dodge at the end of your turn.,4,4,10,10,Spirits 10,
+Queen of Winter,Enemies ending their turn within 5 feet of me lose 5 life.,4,4,5,10 (5 armor),Spirits 10,
+Turn back time,Take another turn after this one. End your turn. Exhaust.,2,3,,,Spaces 8,
+Earthen Influence,"I occupy your space Whenever you gain block, I gain that much block. If you would take unblocked damage, redirect that damage to me",1,2,0,2,Spirits 6/Spaces 4,
